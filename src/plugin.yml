@@ -1,0 +1,7 @@
+name: Timer
+author: Aliya
+main: com.javaminecraft.Timer
+commands:
+    timer:    
+        description: counts down
+version: 1.0
